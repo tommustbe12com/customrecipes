@@ -1,0 +1,14 @@
+name: CustomRecipes
+main: com.tommustbe12.customrecipes.CustomRecipes
+version: 1.0
+api-version: 1.21
+commands:
+  recipe:
+    description: Opens the custom recipe editor GUI
+    usage: /recipe
+    permission: customrecipes.set
+
+permissions:
+  customrecipes.set:
+    description: Allows to set custom recipes.
+    default: op
