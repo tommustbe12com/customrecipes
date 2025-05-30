@@ -26,7 +26,7 @@ Custom recipes are persistent if you don't mess with the config. In default setu
 
 You can also check server logs to see if these custom recipes in the config loaded, it will (for each recipe) say 'loaded recipe recipe_id' as a server log.
 
-### Shaped/shapeless recipes.
+### Shaped/shapeless recipes
 As you may know, recipes might be shaped (have to be in a fixed position) or shapeless (can be put in the format required any way in the crafting table).
 This plugin uses a general shapeless approach.
 
