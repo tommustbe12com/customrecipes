@@ -25,7 +25,7 @@ You added your first recipe.
 ![image](https://github.com/user-attachments/assets/f26b29ac-4fe7-4b24-bf60-323fac4786e1)
 
 ### Persistence
-Custom recipes are persistent if you don't mess with the config. In default setups, it will create its own config.yml file that saves all the custom recipes you have made for future use even after server restarts.
+Custom recipes are persistent (in 1.1 only, see [here](https://github.com/tommustbe12com/customrecipes/blob/main/UPDATES.md#11) for more) if you don't mess with the config. In default setups, it will create its own config.yml file that saves all the custom recipes you have made for future use even after server restarts.
 
 You can also check server logs to see if these custom recipes in the config loaded, it will (for each recipe) say 'loaded recipe recipe_id' as a server log.
 
