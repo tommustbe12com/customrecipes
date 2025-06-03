@@ -5,6 +5,9 @@ A Minecraft plugin made in Java with Maven in Eclipse IDE. Brought it to GitHub 
 It uses Bukkit API and is built with Maven. It is a standard jar file and is 17kb in size.
 It is meant to be used with 1.21.5 of Paper or later, if you want you can contact me about building it for an earlier version but the one here is compiled for that version and above. As long as libraries don't change drastically it should be good for a while. Contact me at admin@tommustbe12.com if you have any issues.
 
+## Update Log
+[See here](UPDATES.md) for an Update Log of the customRecipes plugin.
+
 Java 1.21 servers require Java SE 21, as does this plugin. So it really shouldn't be a problem for the Java SE requirement.
 
 ## Usage
